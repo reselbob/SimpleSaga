@@ -4,6 +4,7 @@
   "description": "A Typescript project the demonstrates how to implement the Saga pattern using choreography",
   "main": "app.ts",
   "scripts": {
+    "start": "npx ts-node ./src/app.ts",
     "test": "test",
     "lint": "gts lint",
     "clean": "gts clean",

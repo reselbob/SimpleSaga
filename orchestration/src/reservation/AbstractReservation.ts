@@ -9,9 +9,7 @@ export abstract class AbstractReservation {
     const random = Math.floor(Math.random() * 3);
     if (random === 0)
       throw new Error(
-        `Oh no! Something went wrong in ${
-          this.constructor.name
-        }!\n`
+        `Oh no! Something went wrong in ${this.constructor.name}!\n`
       );
 
     const str = `Making ${this.constructor.name} reservation for customer ${customer.firstName} ${customer.lastName}`;
