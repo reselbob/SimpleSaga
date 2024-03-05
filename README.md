@@ -6,9 +6,9 @@ A Typescript project the demonstrates how to implement the Saga pattern. Two app
 
 ## Running the Saga Pattern using the Orchestration approach
 
-The Orchestration approach is implemented in the `orchestration` folder. 
+The Orchestration approach is implemented in the [`orchestration`](./orchestration) folder. 
 
-The Choreography approach is implemented in the `choreography` folder.
+The Choreography approach is implemented in the [`choreography`](./choreography) folder.
 
 Read the contents of each folder to learn the details about installing and running the code for the respetive project.
 
