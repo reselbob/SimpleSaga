@@ -18,7 +18,6 @@ To run the example, follow these steps:
 1. Install the dependencies:
 
 ```bash
-cd orchestration
 npm install
 ```
 
