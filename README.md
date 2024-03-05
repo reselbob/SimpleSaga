@@ -1,10 +1,6 @@
-[UNDER CONSTRUCTION]
-
 # SimpleSaga
 
-A Typescript project the demonstrates how to implement the Saga pattern. Two approaches are used: Orchestration and Choreography.
-
-## Running the Saga Pattern using the Orchestration approach
+A Typescript project that demonstrates how to implement the Saga pattern. Two approaches are used: Orchestration and Choreography.
 
 The Orchestration approach is implemented in the [`orchestration`](./orchestration) folder. 
 
